@@ -1,0 +1,7 @@
+body {
+  background-color: #EEEEEE; 
+}
+.table-overflow{
+  max-height:400px;
+  overflow-y:auto;
+}

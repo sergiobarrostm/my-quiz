@@ -1,0 +1,29 @@
+.question-container, .result-container{
+  background-color: #fff;
+  border-radius: 16px;
+  padding: 32px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+
+.options-container{
+  padding: 10px 32px 0 24px;
+}
+
+.question-title{
+  font-size: 20px;
+}
+.question-description{
+  font-size: 16px;
+}
+
+.container{
+  margin-top: 98px;
+}
+
+.btn{
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
